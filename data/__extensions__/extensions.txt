@@ -9,6 +9,7 @@ cweijan.dbclient-jdbc
 cweijan.vscode-database-client2
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
+dotjoshjohnson.xml
 dracula-theme.theme-dracula
 dsznajder.es7-react-js-snippets
 eamodio.gitlens
@@ -24,6 +25,8 @@ hylong.webstorm-theme-vscode
 johnpapa.angular2
 jorgeserrano.vscode-csharp-snippets
 locofy.locofy-vs-code-extension
+lokalise.i18n-ally
+mhutchie.git-graph
 ms-azuretools.vscode-docker
 ms-dotnettools.csdevkit
 ms-dotnettools.csharp
@@ -37,13 +40,17 @@ oracle.oracledevtools
 patcx.vscode-nuget-gallery
 pkief.material-icon-theme
 postman.postman-for-vscode
+prateekmahendrakar.prettyxml
 pucelle.vscode-css-navigation
 quicktype.quicktype
 qwtel.sqlite-viewer
 redhat.vscode-yaml
 ritwickdey.liveserver
 sdras.vue-vscode-snippets
+thibault-vanderseypen.i18n-json-editor
+vscode-icons-team.vscode-icons
 vue.volar
 vunguyentuan.vscode-css-variables
 wallabyjs.console-ninja
 wallabyjs.quokka-vscode
+yzhang.markdown-all-in-one
